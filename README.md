@@ -1,6 +1,6 @@
 # Pokedex
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/pokedex`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your new gem!You can run this gem with ./bin/run .Once run it will ask id you would like to enter the pokedex by entering "pokedex" or exit by entering "exit" (just in case you launched this CLI by accident). It will then list all pokemon up to the 700th in the pokedex and you just enter the name of what pokemon you would like info on. if you enter something like your name instead of a pokemon name it will return "invalid entry" to you.
 
 TODO: Delete this and the text above, and describe your gem
 
